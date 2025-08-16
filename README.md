@@ -10,7 +10,8 @@ The goal is to calculate total quantity sold, total revenue, top customers, and 
 - **Jupyter Notebook** 
 
 ## Database
-- Database file: `sales_data.db`  
+- Database file: `sales_data.db`
+- 
 - Table: `sales`  
 - Columns:
   - `id` (Primary Key)  
